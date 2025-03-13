@@ -9,7 +9,7 @@ export default function About() {
     <div className="container">
       {/* Page Heading/Breadcrumbs */}
       <h1 className="mt-4 mb-3">
-        About
+        เกี่ยวกับ
         <small>Subheading</small>
       </h1>
     </div>
@@ -19,9 +19,9 @@ export default function About() {
     <div className="breadcrumb-main">
       <ol className="breadcrumb">
         <li className="breadcrumb-item">
-          <a href="index.html">Home</a>
+          <a href="/">หน้าหลัก</a>
         </li>
-        <li className="breadcrumb-item active">About</li>
+        <li className="breadcrumb-item active">เกี่ยวกับ</li>
       </ol>
     </div>
     {/* About Content */}

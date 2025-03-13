@@ -9,7 +9,7 @@ export default function AI() {
           <img
             className="lg:w-2/6 md:w-3/6 w-5/6 mb-10 object-cover object-center rounded"
             alt="hero"
-            src="images/P1.jpeg"
+            src="images/P3.png"
           />
           <div className=" lg:w-2/3 w-full">
             <h1 className="title-font sm:text-4xl text-3xl mb-4 font-medium text-gray-900 text-center">
@@ -26,7 +26,7 @@ export default function AI() {
               </ol>
             </p>
             <div className="flex justify-center">
-              <button className="inline-flex text-white bg-indigo-500 border-0 py-2 px-6 focus:outline-none hover:bg-indigo-600 rounded text-lg">
+              <button className="inline-flex bg-indigo-500 border-0 py-2 px-6 focus:outline-none hover:bg-indigo-600 rounded text-lg">
                 <Link
                   href="http://127.0.0.1:5000/index"
                   target="_blank"

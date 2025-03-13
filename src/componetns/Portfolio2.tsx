@@ -208,11 +208,7 @@ export default function Portfolio2() {
             <div className="col-lg-6 portfolio-item">
               <div className="card h-100">
                 <a href="#">
-                  <img
-                    className="card-img-top"
-                    src="images/p17.jpg"
-                    alt=""
-                  />
+                  <img className="card-img-top" src="images/p17.jpg" alt="" />
                 </a>
                 <div className="card-body">
                   <h4 className="card-title">

@@ -25,8 +25,8 @@ export default function Landingpage() {
                 style={{ backgroundImage: 'url("images/slider-01.jpg")' }}
               >
                 <div className="carousel-caption d-none d-md-block">
-                  <h3>Welcome to N &amp; LW Lawn Care</h3>
-                  <p>A Great Theme For Garden Lawn Care</p>
+                  <h3> การเปลี่ยนแปลงและการพัฒนาองค์การภาครัฐ</h3>
+                  {/* <p>A Great Theme For Garden Lawn Care</p> */}
                 </div>
               </div>
               {/* Slide Two - Set the background image for this slide in the line below */}
@@ -35,8 +35,8 @@ export default function Landingpage() {
                 style={{ backgroundImage: 'url("images/slider-02.jpg")' }}
               >
                 <div className="carousel-caption d-none d-md-block">
-                  <h3>Beautiful Garden</h3>
-                  <p>A Great Theme For Garden Lawn Care</p>
+                  <h3>การเปลี่ยนผ่านองค์กรภาครัฐไปสู่การเป็นองค์กรดิจิทัล</h3>
+                  {/* <p>A Great Theme For Garden Lawn Care</p> */}
                 </div>
               </div>
               {/* Slide Three - Set the background image for this slide in the line below */}
@@ -45,8 +45,8 @@ export default function Landingpage() {
                 style={{ backgroundImage: 'url("images/slider-03.jpg")' }}
               >
                 <div className="carousel-caption d-none d-md-block">
-                  <h3>Welcome to N &amp; LW Lawn Care</h3>
-                  <p>A Great Theme For Garden Lawn Care</p>
+                  <h3>เทคโนโลยี AI &amp; เทคโนโลยีดิจิทัล</h3>
+                  {/* <p>A Great Theme For Garden Lawn Care</p> */}
                 </div>
               </div>
             </div>

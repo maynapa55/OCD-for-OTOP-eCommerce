@@ -9,7 +9,7 @@ export default function Service() {
           <div className="container">
             {/* Page Heading/Breadcrumbs */}
             <h1 className="mt-4 mb-3">
-              Services
+              บริการ
               <small>Subheading</small>
             </h1>
           </div>
@@ -19,9 +19,9 @@ export default function Service() {
           <div className="breadcrumb-main">
             <ol className="breadcrumb">
               <li className="breadcrumb-item">
-                <a href="index.html">Home</a>
+                <a href="/">หน้าหลัก</a>
               </li>
-              <li className="breadcrumb-item active">Services</li>
+              <li className="breadcrumb-item active">บริการ</li>
             </ol>
           </div>
           {/* Image Header */}
